@@ -1,6 +1,6 @@
-# 👥 HR Analytics Dashboard – Power BI Project
+#  HR Analytics Dashboard – Power BI Project
 
-## 📌 Overview
+##  Overview
 
 This Power BI project focuses on **Human Resource Analytics** to help businesses make informed decisions related to workforce management. The dashboard provides key insights into employee attrition, departmental performance, tenure distribution, and diversity across the organization.
 
@@ -8,13 +8,13 @@ By leveraging interactive visualizations, stakeholders can better understand emp
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 Organizations often face challenges in understanding the underlying reasons behind high attrition, underperforming departments, or employee dissatisfaction. This dashboard aims to address such challenges by analyzing key HR metrics.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze overall attrition rate and trends
 - Understand departmental and job role-wise attrition
@@ -25,7 +25,7 @@ Organizations often face challenges in understanding the underlying reasons behi
 
 ---
 
-## 📊 Key Metrics Visualized
+##  Key Metrics Visualized
 
 - 🔹 **Overall Attrition Rate**
 - 🔹 **Attrition by Department & Job Role**
@@ -37,7 +37,7 @@ Organizations often face challenges in understanding the underlying reasons behi
 
 ---
 
-## 📈 Tools Used
+##  Tools Used
 
 - **Power BI Desktop**
 - DAX for calculated columns and measures
@@ -45,7 +45,7 @@ Organizations often face challenges in understanding the underlying reasons behi
 
 ---
 
-## 📁 Dashboard Pages
+##  Dashboard Pages
 
 1. **Overview Page** – Summary of attrition, tenure, and workforce distribution.
 2. **Attrition Analysis** – Department-wise and role-wise attrition heatmap and trends.
@@ -55,7 +55,7 @@ Organizations often face challenges in understanding the underlying reasons behi
 
 ---
 
-## 🧠 Recommendations
+##  Recommendations
 
 - Departments with high attrition should conduct **exit interviews** and **employee engagement programs**.
 - Focus on **retaining experienced employees** by offering career growth plans.
@@ -64,7 +64,7 @@ Organizations often face challenges in understanding the underlying reasons behi
 
 ---
 
-## 🚀 What I Learned
+##  What I Learned
 
 - Creating HR dashboards aligned to business needs and storytelling
 - Using DAX to compute HR KPIs like attrition rate, tenure buckets, etc.
