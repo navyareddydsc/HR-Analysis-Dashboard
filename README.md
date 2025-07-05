@@ -27,13 +27,13 @@ Organizations often face challenges in understanding the underlying reasons behi
 
 ##  Key Metrics Visualized
 
-- 🔹 **Overall Attrition Rate**
-- 🔹 **Attrition by Department & Job Role**
-- 🔹 **Average Employee Tenure**
-- 🔹 **Headcount Trend Over Time**
-- 🔹 **Diversity Breakdown (Gender, Age)**
-- 🔹 **Attrition by Education, Experience, and Marital Status**
-- 🔹 **Employee Satisfaction Metrics** *(if included)*
+-  **Overall Attrition Rate**
+-  **Attrition by Department & Job Role**
+-  **Average Employee Tenure**
+-  **Headcount Trend Over Time**
+-  **Diversity Breakdown (Gender, Age)**
+-  **Attrition by Education, Experience, and Marital Status**
+-  **Employee Satisfaction Metrics** *(if included)*
 
 ---
 
